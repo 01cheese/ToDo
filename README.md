@@ -2,8 +2,8 @@
 ToDoList with drawing and sending mail
 
 
-# For send message, you need special gmail key ex: xxxx xxxx xxxx xxxx
-# Copy key to json and write your gmail
+For send message, you need special gmail key ex: xxxx xxxx xxxx xxxx
+Copy key to json and write your gmail
 
 
 
